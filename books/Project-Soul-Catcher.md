@@ -38,6 +38,6 @@ Volume 2 details the CIA's practices of interrogation and cybernetic mind contro
 ## Video Archives
 
 - https://s3.wasabisys.com/public-videos/play.html#c=Still%20human&v=Still%20human/Dr_Robert_Duncan_Dr_John_Hall_interview_Zeph_Daniel-AY0rmINdYIY
-- https://s3.us-east-1.wasabisys.com/public-videos/play.html#v=Officials_say_130_suspected_victims_of_possible_energy_weapon-%5BQUXnDbCIW8s%5D
-- https://s3.us-east-1.wasabisys.com/public-videos/play.html#v=America_s_Book_Of_Secrets_-_DARPA_s_Secret_Mind_Control_Technology_Season_4_History-[wZRkfBsTTt8]
-- https://s3.us-east-1.wasabisys.com/public-videos/play.html#v=Meet_the_Targeted_Individual_Community-[62s3FinAoC0]
+- https://s3.us-east-1.wasabisys.com/public-videos/play.html#v=Officials_say_130_suspected_victims_of_possible_energy_weapon-\[QUXnDbCIW8s\]
+- https://s3.us-east-1.wasabisys.com/public-videos/play.html#v=America_s_Book_Of_Secrets_-_DARPA_s_Secret_Mind_Control_Technology_Season_4_History-\[wZRkfBsTTt8\]
+- https://s3.us-east-1.wasabisys.com/public-videos/play.html#v=Meet_the_Targeted_Individual_Community-\[62s3FinAoC0\]
