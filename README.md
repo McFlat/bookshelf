@@ -1,6 +1,6 @@
 # BOOKSHELF
 
-Learn actually what the heck is going on it the world and how things really work!
+Learn actually what the heck is going on in the world and how things really work!
 
 These books are something more people need to read simply for the love of truth and for the love of humanity, to put an end to all the lies and the horrific experiments.
 
