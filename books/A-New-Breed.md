@@ -1,4 +1,4 @@
-# A New Breed - Satellite Terrorism in America
+# A New Breed: Satellite Terrorism in America
 
 ## Authors
 
