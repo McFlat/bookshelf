@@ -4,7 +4,10 @@ These books are something more people need to read simply for the love of truth 
 
 <table>
   <tr>
-    <th>A very interesting book, not some bullshit</th>
+    <th>Cover</th>
+    <th>Title</th>
+    <th>Author</th>
+    <th>Summary</th>
   </tr>
   <tr>
     <td>
@@ -12,32 +15,97 @@ These books are something more people need to read simply for the love of truth 
         <img src="./assets/images/610K2kphqhL.jpeg" width="200" align="left" alt="A New Breed: Satellite Terrorism in America">
       </a>
     </td>
+    <td>
+      <a href="https://www.amazon.com/New-Breed-Satellite-Terrorism/dp/1606939440">
+        A New Breed: Satellite Terrorism in America
+      </a>
+    </td>
+    <td>
+      Dr. John Hall
+    </td>
+    <td>
+      <a href="./books/A-New-Breed-Satellite-Terrorism-in-America.md">
+        Read More
+      </a>
+    </td>
   </tr>
   <tr>
     <td>
       <a href="./books/Project-Soul-Catcher.md">
-        <img src="./assets/images/51g3T5-uF7L.jpeg" width="200" align="left" alt="Project: Soul Catcher: Secrets of Cyber and Cybernetic Warfare Revealed">
+        <img src="./assets/images/51g3T5-uF7L.jpeg" alt="Project: Soul Catcher: Secrets of Cyber and Cybernetic Warfare Revealed">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.amazon.com/Project-Catcher-Secrets-Cybernetic-Revealed/dp/1452804087">
+        Project: Soul Catcher: Secrets of Cyber and Cybernetic Warfare Revealed
+      </a>
+    </td>
+    <td>
+      Robert Duncan and Mind Hacking Strategy Group
+    </td>
+    <td>
+      <a href="./books/Project-Soul-Catcher.md">
+        Read More
       </a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="./books/One-Nation-Under-Blackmail-vol-1.md">
-        <img src="./assets/images/61e7VOBSgqL.jpeg" width="200" align="left" alt="One Nation Under Blackmail - Vol. 1: The Sordid Union Between Intelligence and Crime that Gave Rise to Jeffrey Epstein, VOL.1">
+        <img src="./assets/images/61e7VOBSgqL.jpeg" alt="One Nation Under Blackmail - Vol. 1: The Sordid Union Between Intelligence and Crime that Gave Rise to Jeffrey Epstein, VOL.1">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.amazon.com/One-Nation-Under-Blackmail-Intelligence/dp/1634243013">
+        One Nation Under Blackmail - Vol. 1: The Sordid Union Between Intelligence and Crime that Gave Rise to Jeffrey Epstein, VOL.1
+      </a>
+    </td>
+    <td>
+      Whitney Webb
+    </td>
+    <td>
+      <a href="./books/One-Nation-Under-Blackmail-vol-1.md">
+        Read More
       </a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="./books/One-Nation-Under-Blackmail-vol-2.md">
-        <img src="./assets/images/61a-km3tJVL.jpeg" width="200" align="left" alt="One Nation Under Blackmail – Vol. 2: The Sordid Union Between Intelligence and Organized Crime that Gave Rise to Jeffrey Epstein Vol. 2">
+        <img src="./assets/images/61a-km3tJVL.jpeg" alt="One Nation Under Blackmail – Vol. 2: The Sordid Union Between Intelligence and Organized Crime that Gave Rise to Jeffrey Epstein Vol. 2">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.amazon.com/One-Nation-Under-Blackmail-Intelligence/dp/1634243021">
+        One Nation Under Blackmail – Vol. 2: The Sordid Union Between Intelligence and Organized Crime that Gave Rise to Jeffrey Epstein Vol. 2
+      </a>
+    </td>
+    <td>
+      Whitney Webb
+    </td>
+    <td>
+      <a href="./books/One-Nation-Under-Blackmail-vol-2.md">
+        Read More
       </a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="./books/Light-Medicine-A-New-Paradigm.md">
-        <img src="./assets/images/61XFqjH-XfL.jpeg" width="200" align="left" alt="LIGHT MEDICINE: A New Paradigm - The Science of Light, Spirit, and Longevity">
+        <img src="./assets/images/61XFqjH-XfL.jpeg" alt="LIGHT MEDICINE: A New Paradigm - The Science of Light, Spirit, and Longevity">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.amazon.com/LIGHT-MEDICINE-Paradigm-Science-Longevity/dp/0578850281">
+        LIGHT MEDICINE: A New Paradigm - The Science of Light, Spirit, and Longevity
+      </a>
+    </td>
+    <td>
+      Ana Maria Mihalcea M.D., Ph.D.
+    </td>
+    <td>
+      <a href="./books/Light-Medicine-A-New-Paradigm.md">
+        Read More
       </a>
     </td>
   </tr>
