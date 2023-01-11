@@ -111,6 +111,26 @@ These books are something more people need to read simply for the love of truth 
       </a>
     </td>
   </tr>
+  <tr>
+    <td>
+      <a href="./books/The-Greatest-Lie-On-Earth.md">
+        <img src="./assets/images/61C3X4Z59FL.jpeg" alt="The Greatest Lie on Earth (Expanded Edition): Proof That Our World Is Not a Moving Globe (10th Edition)">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.amazon.com/Greatest-Lie-Earth-Expanded-Moving/dp/1943056056">
+        The Greatest Lie on Earth (Expanded Edition): Proof That Our World Is Not a Moving Globe (10th Edition)
+      </a>
+    </td>
+    <td>
+      Edward Hendrie
+    </td>
+    <td>
+      <a href="./books/The-Greatest-Lie-On-Earth.md">
+        Read More
+      </a>
+    </td>
+  </tr>
 </table>
 
 This bookshelf was inspired by another github project https://github.com/mlabouardy/bookshelf which is lacking any good books. So I decided to make my own bookshelf with actually good books not some bullshit garbage... If you appreciate my efforts to helping humanity heal from all the bullshit by way of seeking truth and sharing truth then you can buy me a coffee. You can contact me alex -at- goretoy -dot- com https://troo.pro
