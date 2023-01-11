@@ -165,6 +165,26 @@ These books are something more people need to read simply for the love of truth 
       </a>
     </td>
   </tr>
+  <tr>
+    <td>
+      <a href="./books/Operation-Gladio-The-Unholy-Alliace.md">
+        <img src="./assets/images/81FLeF2m00L.jpeg" alt="Operation Gladio: The Unholy Alliance between the Vatican, the CIA, and the Mafia">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.amazon.com/Operation-Gladio-Alliance-between-Vatican/dp/1633884783">
+        Operation Gladio: The Unholy Alliance between the Vatican, the CIA, and the Mafia
+      </a>
+    </td>
+    <td>
+      Paul L. Williams
+    </td>
+    <td>
+      <a href="./books/Operation-Gladio-The-Unholy-Alliace.md">
+        Read More
+      </a>
+    </td>
+  </tr>
 </table>
 
 This bookshelf was inspired by another github project https://github.com/mlabouardy/bookshelf which is lacking any good books. So I decided to make my own bookshelf with actually good books not some bullshit garbage... If you appreciate my efforts to helping humanity heal from all the bullshit by way of seeking truth and sharing truth then you can buy me a coffee. You can contact me alex -at- goretoy -dot- com https://troo.pro
