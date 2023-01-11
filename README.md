@@ -6,6 +6,17 @@ Learn actually what the heck is going on in the world and how things really work
 
 These books are something more people need to read simply for the love of truth and for the love of humanity, to put an end to all the lies and the horrific experiments.
 
+## Newsletters
+
+- [Zombies & Aliens AT THE SAME TiME](https://zombies.substack.com/)
+- [Dr. Ana’s Newsletter](https://anamihalceamdphd.substack.com/)
+- [The Kingston Report](https://karenkingston.substack.com/)
+- [Bailiwick News](https://bailiwicknews.substack.com/)
+- [Nixonlab](https://davidnixon.substack.com/)
+- [Due Diligence and Art](https://sashalatypova.substack.com/)
+
+## Book Summaries
+
 <table>
   <tr>
     <th>Cover</th>
