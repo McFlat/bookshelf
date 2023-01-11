@@ -14,6 +14,7 @@ These books are something more people need to read simply for the love of truth 
 - [Bailiwick News](https://bailiwicknews.substack.com/)
 - [Nixonlab](https://davidnixon.substack.com/)
 - [Due Diligence and Art](https://sashalatypova.substack.com/)
+- [Alexander COVID News-Dr. Paul Elias Alexander's Newsletter](https://palexander.substack.com/)
 
 ## Book Summaries
 
