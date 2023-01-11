@@ -5,7 +5,7 @@
 - Edward Hendrie
 
 <a href="https://www.amazon.com/Sphere-Influence-Heliocentric-Perversion-Gospel/dp/1943056064">
-  <img src="../assets/images/61C3X4Z59FL.jpeg" width="200" align="right" alt="The Sphere of Influence: The Heliocentric Perversion of the Gospel">
+  <img src="../assets/images/61OScYmXTOS.jpeg" width="200" align="right" alt="The Sphere of Influence: The Heliocentric Perversion of the Gospel">
 </a>
 
 <a href="https://www.amazon.com/Sphere-Influence-Heliocentric-Perversion-Gospel/dp/1943056064">
