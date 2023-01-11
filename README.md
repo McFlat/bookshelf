@@ -1,4 +1,6 @@
-# BOOKSHELF
+# [BOOKSHELF](https://github.com/McFlat/bookshelf)
+
+[https://github.com/McFlat/bookshelf](https://github.com/McFlat/bookshelf)
 
 Learn actually what the heck is going on in the world and how things really work!
 
